@@ -6,4 +6,5 @@ import TheDrawer from "./components/TheDrawer.vue";
 <template>
   <TheNavbar />
   <TheDrawer />
+  <TheAlerts />
 </template>
